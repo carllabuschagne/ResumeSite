@@ -131,6 +131,15 @@
     <Content Include="assets\img\apple-touch-icon.png" />
     <Content Include="assets\img\favicon.png" />
     <Content Include="assets\img\hero-bg.jpg" />
+    <Content Include="assets\img\portfolio\MedLabs\appointments.png" />
+    <Content Include="assets\img\portfolio\MedLabs\dasboard.png" />
+    <Content Include="assets\img\portfolio\MedLabs\Login.png" />
+    <Content Include="assets\img\portfolio\MedLabs\PatientRegister.png" />
+    <Content Include="assets\img\portfolio\MSDosStyle\cards.png" />
+    <Content Include="assets\img\portfolio\MSDosStyle\color.png" />
+    <Content Include="assets\img\portfolio\MSDosStyle\forms.png" />
+    <Content Include="assets\img\portfolio\MSDosStyle\inputs.png" />
+    <Content Include="assets\img\portfolio\MSDosStyle\menu.png" />
     <Content Include="assets\img\portfolio\portfolio-1.jpg" />
     <Content Include="assets\img\portfolio\portfolio-2.jpg" />
     <Content Include="assets\img\portfolio\portfolio-3.jpg" />
